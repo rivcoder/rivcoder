@@ -1,6 +1,4 @@
-# 💫 About Me:# 
-
-👋 Hi, I'm Riv
+# 👋 Hi, I'm Riv
 
 I build AI-powered web applications that solve real-world problems.
 
