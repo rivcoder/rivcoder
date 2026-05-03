@@ -3,7 +3,9 @@
 I build AI-powered web applications that solve real-world problems.
 
 ⚡ Turning ideas into working products
+
 🚀 Focus: AI Systems, Data, and Full-Stack Development
+
 🧠 Currently building intelligent, user-focused applications
 
 ---
