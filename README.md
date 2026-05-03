@@ -1,5 +1,70 @@
-# 💫 About Me:
-💻 I’m currently working on  <br>Building AI-driven web applications and intelligent systems that solve real-world problems .<br><br>🤝 I’m looking to collaborate on  <br>Projects involving AI, Data Science, and modern web development (Python, JS, Basic ML-based systems)  <br><br>🛠️ I’m looking for help with  <br>Advanced AI integration, building ML Models, and scaling real-world applications.  <br><br>🌱 I’m currently learning  <br>Advanced Python, machine learning, secure application development, and UI/UX design .<br><br>💬 Ask me about  <br>AI projects, beginner-friendly development, or turning ideas into working MVPs. <br><br>⚡ Fun fact  <br>I don’t always write perfect code, but I always write code that teaches me something (usually what not to do).
+# 💫 About Me:# 
+
+👋 Hi, I'm Riv
+
+I build AI-powered web applications that solve real-world problems.
+
+⚡ Turning ideas into working products
+🚀 Focus: AI Systems, Data, and Full-Stack Development
+🧠 Currently building intelligent, user-focused applications
+
+---
+
+## 🔧 What I Do
+
+* Build **AI-driven tools** that automate and simplify real tasks
+* Focus on Developing **full-stack web apps** with clean UI & real usability
+* Turn raw ideas into **functional MVPs quickly**
+* Focus on **practical systems**, not just theory
+
+---
+
+## 🧠 Current Focus
+
+* Advanced AI integration into real applications
+* Building scalable and useful systems
+* Improving UI/UX for better product experience
+* Creating projects that feel like **real products, not demos**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**
+Python • JavaScript • C
+
+**Web:**
+HTML • CSS 
+
+**Data & AI:**
+Pandas • NumPy • Matplotlib
+
+**Tools & Platforms:**
+Git • GitHub • Vercel • Figma
+
+---
+
+## 📈 Approach
+
+I don’t just write code — I build things that work.
+
+* Ship fast
+* Learn while building
+* Focus on real-world problems
+* Keep improving every iteration
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 Portfolio: https://rashika-portfolio-nine.vercel.app/
+* 📧 Email: [rashika.k.jain@gmail.com](mailto:rashika.k.jain@gmail.com)
+
+---
+
+## ⚡ Fun Note
+
+I don’t always write perfect code, but I always write code that teaches me something (usually what not to do).
 
 
 ## 🌐 Socials:
