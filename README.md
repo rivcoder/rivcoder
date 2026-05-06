@@ -37,7 +37,7 @@ Python • JavaScript • C
 HTML • CSS 
 
 **Data & AI:**
-Pandas • NumPy • Matplotlib
+Pandas • NumPy 
 
 **Tools & Platforms:**
 Git • GitHub • Vercel • Figma
