@@ -57,7 +57,7 @@ I don’t just write code — I build things that work.
 
 ## 🌐 Connect With Me
 
-* 💼 Portfolio: https://riv-portfolio-cyan.vercel.app/
+* 💼 Portfolio: riv-portfolio-cyan.vercel.app
 * 📧 Email: [rashika.k.jain@gmail.com](mailto:rashika.k.jain@gmail.com)
 
 ---
