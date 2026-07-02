@@ -31,7 +31,7 @@ I build AI-powered web applications that solve real-world problems.
 ## 🛠 Tech Stack
 
 **Languages:**
-Python • JavaScript • C
+Python • JavaScript • C • SQL
 
 **Web:**
 HTML • CSS 
