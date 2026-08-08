@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Riv
 
-Data Analyst in progress — I dig through numbers until they start making sense
+Data Analyst in progress — I go through numbers until they start making sense
 
 ⚡ Also build AI-powered web apps, because sitting still is boring
 
