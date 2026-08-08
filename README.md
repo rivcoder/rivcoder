@@ -28,22 +28,6 @@ I build AI-powered web applications that solve real-world problems.
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages:**
-Python • JavaScript • C • SQL
-
-**Web:**
-HTML • CSS 
-
-**Data & AI:**
-Pandas • NumPy • Matplotlib 
-
-**Tools & Platforms:**
-Git • GitHub • Vercel • Figma
-
----
-
 ## 📈 Approach
 
 I don’t just write code — I build things that work.
