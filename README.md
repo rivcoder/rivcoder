@@ -1,41 +1,40 @@
 # 👋 Hi, I'm Riv
 
-I build AI-powered web applications that solve real-world problems.
+Data Analyst in progress — I dig through numbers until they start making sense
 
-⚡ Turning ideas into working products
+⚡ Also build AI-powered web apps, because sitting still is boring
 
-🚀 Focus: AI Systems, Data, and Full-Stack Development
+🚀 Focus: Data & Insights · Python · SQL · Pandas 
 
-🧠 Currently building intelligent, user-focused applications
+🧠 Currently: Predicting Delays, Shipping Apps
 
 ---
 
 ## 🔧 What I Do
 
-* Build **AI-driven tools** that automate and simplify real tasks
-* Focus on Developing **full-stack web apps** with clean UI & real usability
-* Turn raw ideas into **functional MVPs quickly**
-* Focus on **practical systems**, not just theory
+* Dig through **messy data** and turn it into charts that actually make sense
+* Focused on **real insights**
+* Build **web apps** that actually work and look clean
 
 ---
 
 ## 🧠 Current Focus
 
-* Advanced AI integration into real applications
-* Building scalable and useful systems
-* Improving UI/UX for better product experience
-* Creating projects that feel like **real products, not demos**
+* Working with real datasets
+* Getting better at SQL and querying data properly
+* Making apps people actually want to use
+* Improving UI/UX along the way
 
 ---
 
 ## 📈 Approach
 
-I don’t just write code — I build things that work.
+I don't just look at numbers — I figure out what they mean.
 
-* Ship fast
-* Learn while building
+* Ship fast, fix as I go
+* Learn by doing, not just reading
 * Focus on real-world problems
-* Keep improving every iteration
+* Keep getting better with every project
 
 ---
 
