@@ -45,11 +45,6 @@ I don't just look at numbers — I figure out what they mean.
 
 ---
 
-## ⚡ Fun Note
-
-I don’t always write perfect code, but I always write code that teaches me something (usually what not to do).
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rashikajn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashika-kaushal-jain-50498037a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rashika.k.jain@gmail.com) 
 
